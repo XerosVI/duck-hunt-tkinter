@@ -26,11 +26,11 @@ This project serves as an archive of my early programming journey in high school
 
 ## 📂 Project Structure
 
-Make sure all assets remain in the root directory alongside the main script:
+Make sure all assets remain in the root directory alongside the main script (or you could replace assets with your own for customization purposes):
 
 ```text
 .
-├── Gioco (con audio).py   # Main Python game script
+├── main.py   # Main Python game script
 ├── background.png          # Game background canvas image
 ├── easy.png                # Duck sprite (Easy difficulty)
 ├── medium.png              # Duck sprite (Medium difficulty)
@@ -59,7 +59,7 @@ Make sure all assets remain in the root directory alongside the main script:
 
 2. **Run the game:**
    ```bash
-   python "Gioco (con audio).py"
+   python "mains.py"
    ```
 
 ---
