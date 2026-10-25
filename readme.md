@@ -59,7 +59,7 @@ Make sure all assets remain in the root directory alongside the main script (or 
 
 2. **Run the game:**
    ```bash
-   python "mains.py"
+   python "main.py"
    ```
 
 ---
