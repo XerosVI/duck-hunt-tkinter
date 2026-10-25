@@ -15,9 +15,9 @@ This project serves as an archive of my early programming journey in high school
 ## 🎮 Features
 
 - **Three Difficulty Levels:**
-  - **Easy:** Slow duck movement, 3 seconds to hit.
-  - **Medium:** Balanced speed, 2 seconds to hit.
-  - **Hard:** Fast duck movement, only 1 second to hit!
+  - **Easy:** Slow duck movement, big hitbox, 3 seconds to hit.
+  - **Medium:** Balanced speed, medium hitbox, 2 seconds to hit.
+  - **Hard:** Fast duck movement, small hitbox, only 1 second to hit!
 - **Integrated Audio:** Custom sound effects for shooting and game over scenarios.
 - **High Score System:** Automatic saving and loading of high scores per difficulty via a local `high_scores.txt` file.
 - **Game Controls:** Pause, reset, and high-score deletion options directly within the control panel.
