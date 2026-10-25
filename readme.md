@@ -1,6 +1,6 @@
 # Duck Hunt - High School Arcade Game 🦆
 
-A simple *Duck Hunt*-style arcade game built in Python using the **Tkinter** GUI library. This project was originally created back in high school as an informatics project ("Simulatore di 2 in Informatica"). It features sound effects, score tracking across difficulties, customizable controls, and nostalgic arcade mechanics.
+A simple *Duck Hunt*-style arcade game built in Python using the **Tkinter** GUI library. This project was originally created back in high school as an informatics project. It features sound effects, score tracking across difficulties, customizable controls, and nostalgic arcade mechanics.
 
 ---
 
